@@ -2,8 +2,7 @@
 layout: post
 title:
 ---
-<img src="./images/akaedu.png" alt="akaedu" />
-Welcome to Akaedu!
+<div align=”center“><img src="./images/akaedu.png" alt="akaedu" /></div>
 <p><br /><b>目录:</b></p>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
