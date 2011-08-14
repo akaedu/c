@@ -3,6 +3,9 @@ layout: post
 title:
 ---
 <img src="./images/akaedu.png" alt="akaedu" align="absmiddle"/>
+</p><div id="m"><p id="lg"><img
+src="./images/akaedu.png" width="270" height="129"
+usemap="#mp"></p>
 <p><br /><b>目录:</b></p>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
