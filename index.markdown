@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Akaedu
+title:
 ---
-<img src="./images/akaedu.jpg" alt="akaedu" />
+<img src="./images/akaedu.png" alt="akaedu" />
 Welcome to Akaedu!
 <p><br /><b>目录:</b></p>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
