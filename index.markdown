@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gao Jinlong of Akaedu
+title: Akaedu
 ---
 <img src="./images/akaedu.jpg" alt="akaedu" />
 Welcome to Akaedu!
