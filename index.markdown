@@ -2,13 +2,12 @@
 layout: post
 title: Gao Jinlong of Akaedu
 ---
-
-Welcome, I am Gao Jinlong, The followings are your study materials during your
-study.
+<img src="./images/akaedu.jpg" alt="akaedu" />
+Welcome to Akaedu!
 <p><br /><b>目录:</b></p>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
-<li> <a href=".html">#3 编程基础(1)</a> </li>
+<li> <a href="/post/chapter_03.html">#3 编程基础(1)</a> </li>
 <li> <a href=".html">#4 编程基础(2)</a> </li>
 <li> <a href=".html">#5 编程基础(3)</a> </li>
 <li> <a href=".html">#6 位运算</a> </li>
