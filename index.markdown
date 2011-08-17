@@ -3,7 +3,7 @@ layout: post
 title:
 ---
 <img src="./images/akaedu.png" alt="akaedu" align="center"/>
-<br><br><br>
+<br><br><br><br><br>
 <a href="/post/practice.html">练习题</a> 
 <br>
 <p><br /><b>目录:</b></p>
@@ -34,12 +34,12 @@ title:
 <li><a href="http://github.com/ymqqqqdx/">Github</a></li>
 
 </ul>
-<p><br /><b>Contact Information:</b></p>
+<p><br /><b>Contact maintainer:</b></p>
 
 <blockquote>
 <p>
-<em>ymqqqqdx@gmail.com</em><br>
-<em>gaojinlong@akaedu.org</em>
+高金龙：<em>gaojinlong@akaedu.org</em>
+郭鹏宇：<em>guopengyu@akaedu.org</em><br>
 </p>
 </blockquote>
 
