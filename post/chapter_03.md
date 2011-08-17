@@ -4,6 +4,7 @@ title: #3 编程基础(1)
 ---
 <h1 style="text-align:center">#3 编程基础(1)</h1>
 ##目录:
+<ul>
 ###基本输入输出
 <li> <a href="/post/03/3.1.html">#3.1 #include</a> </li>
 <li> <a href="/post/03/3.2.html">#3.2 printf</a> </li>
@@ -15,3 +16,4 @@ title: #3 编程基础(1)
 <li> <a href="/post/03/3.7.html">#3.7 typedef</a> </li>
 <li> <a href="/post/03/3.8.html">#3.8 数制转换</a> </li>
 <li> <a href="/post/03/3.9.html">#3.9 数据编码</a> </li>
+</ul>
