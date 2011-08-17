@@ -38,7 +38,7 @@ title:
 
 <blockquote>
 <p>
-高金龙：<em>gaojinlong@akaedu.org</em>
+高金龙：<em>gaojinlong@akaedu.org</em><br>
 郭鹏宇：<em>guopengyu@akaedu.org</em><br>
 </p>
 </blockquote>
