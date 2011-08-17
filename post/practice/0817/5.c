@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void itoa(int x, char *p)
+void myitoa(int x, char *p)
 {
     int i = 0, j = 0;
     int tmp;
@@ -25,7 +25,7 @@ int main(int argc, const char *argv[])
     char str[100];
     printf("Please input an integer: ");    
     scanf("%d", &x);
-    itoa(x, str);
+    myitoa(x, str);
     printf("After convert, array str is %s\n", str);
     return 0;
 }

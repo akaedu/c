@@ -7,6 +7,7 @@ title:
 <a href="/post/practice.html">练习题</a> 
 <br>
 <p><br /><b>目录:</b></p>
+<ul>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
 <li> <a href="/post/chapter_03.html">#3 编程基础(1)</a> </li>
@@ -27,6 +28,7 @@ title:
 <li> <a href=".html">#18 排序和查找</a> </li>
 <li> <a href=".html">#19 二叉数</a> </li>
 <li> <a href=".html">#20 查字典项目开题</a> </li>
+</ul>
 <p><br /><b>Find me on:</b></p>
 
 <ul>
