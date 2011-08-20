@@ -17,9 +17,6 @@ int main(int argc, const char *argv[])
         letter[c - 65]++;
         p++;
     }
-    for(i = 0; i < 26; i++)
-        printf("%d\t", letter[i]);
-
     for (i = 0; i < 26; i++)
     {
         if(letter[i] > max)
@@ -28,6 +25,10 @@ int main(int argc, const char *argv[])
             max = letter[i];
         }
     }
-    printf("%c appears %d times!\n", pos + 65, max);
+    for(i = 0; i < 26; i++)
+    {
+        if(max == letter[i])
+            printf("%c appears %d times!\n", i + 65, max);
+    }
     return 0;
 }
