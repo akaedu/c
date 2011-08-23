@@ -20,7 +20,6 @@ int main(int argc, char *argv[])
 
 	for(i = 0; i < LEN -1; i++)
 	{
-	
 		for(j = 0; j < LEN -1 - i; j++)
 		{
 			if(num[j] > num[j+1])
@@ -29,7 +28,6 @@ int main(int argc, char *argv[])
 				num[j] = num[j+1];
 				num[j+1] = tmp;
 			}
-		
 		}
 	}
 

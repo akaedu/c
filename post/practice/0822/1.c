@@ -9,11 +9,10 @@ int main(int argc, char *argv[])
 
 	while(str1[i] && str2[j])
 	{
-	
-			if(str1[i] < str2[j])
-				str[k++] = str1[i++];
-			else
-				str[k++] = str2[j++];
+        if(str1[i] < str2[j])
+            str[k++] = str1[i++];
+        else
+            str[k++] = str2[j++];
 	}
 
 	while(str1[i])

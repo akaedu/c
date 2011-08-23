@@ -33,14 +33,16 @@ void sort(int *num, int len)
             i--;
             j--;
         }
+        print(num, 5);
     }
 }
 
 int main(int argc, const char *argv[])
 {
-    int num[20];
-    init(num, 20);
-    sort(num, 20);
-    print(num, 20);
+    int num[5];
+    init(num, 5);
+    print(num, 5);
+    sort(num, 5);
+    print(num, 5);
     return 0;
 }
