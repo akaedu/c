@@ -9,12 +9,16 @@ int find_str(char *base, char *head, char *tail, char *str[])
     {
         if(tmp = strstr(base, head))
             str[i++] = tmp + strlen(head);
+        else
+            return i;
 
         if(tmp = strstr(base, tail))
         {
             base = tmp + strlen(tail);
             *tmp = '\0';
         }
+        else
+            return i - 2;
     }
     return i;
 }
