@@ -6,7 +6,7 @@ title: #15 指针高级
 ##目录:
 ###数组指针
 <ul>
-<li> <a href="/post/15/15.1.html">#15.1 数组指针的定义<a></li>
+<li> <a href="/post/15/15.1.html">#15.1 数组指针的定义</a></li>
 <li> <a href="/post/15/15.2.html">#15.2 数组指针的初始化</a> </li>
 <li> <a href="/post/15/15.3.html">#15.3 数组指针的使用</a> </li>
 </ul>
