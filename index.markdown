@@ -34,7 +34,7 @@ title:
 
 <ul>
 
-<li><a href="http://github.com/ymqqqqdx/">Github</a></li>
+<li><a href="http://github.com/akaedu/">Github</a></li>
 
 </ul>
 <p><br /><b>Contact maintainer:</b></p>
@@ -43,6 +43,8 @@ title:
 <p>
 高金龙：<em>gaojinlong@akaedu.org</em><br>
 郭鹏宇：<em>guopengyu@akaedu.org</em><br>
+刘  光：<em>liuguang@akaedu.org</em><br>
+张建宁：<em>zhangjianning@akaedu.org</em><br>
 </p>
 </blockquote>
 
