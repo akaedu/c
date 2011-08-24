@@ -9,3 +9,4 @@ title: 练习题
 <li> <a href="/post/practice/0820/0820.html">8月20日练习题</a> </li>
 <li> <a href="/post/practice/0822/0822.html">8月22日练习题</a> </li>
 <li> <a href="/post/practice/0823/0823.html">8月23日练习题</a> </li>
+<li> <a href="/post/practice/0824/0824.html">8月24日练习题</a> </li>
