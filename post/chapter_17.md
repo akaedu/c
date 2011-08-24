@@ -5,7 +5,7 @@ title: #17 链表
 <h1 style="text-align:center">#17 链表</h1>
 ##目录:
 <ul>
-<li> <a href="/post/17/17.1.html">#17.1 节点定义<a> </li>
+<li> <a href="/post/17/17.1.html">#17.1 节点定义<a></li>
 <li> <a href="/post/17/17.2.html">#17.2 节点初始化</a> </li>
 <li> <a href="/post/17/17.3.html">#17.3 节点插入</a> </li>
 <li> <a href="/post/17/17.4.html">#17.4 节点删除</a> </li>

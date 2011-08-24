@@ -4,8 +4,8 @@ title: #11 gdb
 ---
 <h1 style="text-align:center">#11 gdb</h1>
 ##目录:
-<ul>
 ###调试器的基本用法
+<ul>
 <li> <a href="/post/11/11.1.html">#11.1 编译为可调试的可执行文件</a> </li>
 <li> <a href="/post/11/11.2.html">#11.2 启动gdb</a> </li>
 </ul>

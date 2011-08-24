@@ -4,12 +4,14 @@ title: #3 编程基础(1)
 ---
 <h1 style="text-align:center">#3 编程基础(1)</h1>
 ##目录:
-<ul>
 ###基本输入输出
+<ul>
 <li> <a href="/post/03/3.1.html">#3.1 #include</a> </li>
 <li> <a href="/post/03/3.2.html">#3.2 printf</a> </li>
 <li> <a href="/post/03/3.3.html">#3.3 scanf</a> </li>
+</ul>
 ###数据类型与数据转换
+<ul>
 <li> <a href="/post/03/3.4.html">#3.4 整型</a> </li>
 <li> <a href="/post/03/3.5.html">#3.5 浮点型</a> </li>
 <li> <a href="/post/03/3.6.html">#3.6 sizeof</a> </li>
