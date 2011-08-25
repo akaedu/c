@@ -1,21 +1,37 @@
 #include <stdio.h>
 #include <string.h>
 
-int my_strcmp(char *str1, char *str2)
+int my_strcmp(char *s1, char *s2)
 {
-    for (; *str1 == *str2; str1++, str2++)
-    {
-        if(*str1 == '\0')
-            return 0;
-    }
-    return (*str1 > *str2) ? 1 : -1;
+        while(*s1 == *s2)
+        {
+            if(*s1 == '\0')
+                return 0;
+            s1++;
+            s2++;
+        }
+        return (*s1 > *s2 ? 1 : -1); 
 }
 
+int my_strncmp(char *s1, char *s2, int n)
+{
+    if(!n)
+           return 0;
+    while(*s1 == *s2)
+    {
+        if(*s1 == '\0' || !(--n))
+            return 0;
+        s1++;
+        s2++;
+    }
+    return (*s1 > *s2 ? 1 : -1); 
+}
 int main(int argc, const char *argv[])
 {
-    char *str1 = "hello world!";
-    char *str2 = "hello world";
-    printf("%d\n", strcmp(str1, str2));
-    printf("%d\n", my_strcmp(str1, str2));
-    return 0;
+    char *p = "akaedu1", *q = "akadeu", *str = "helaka";
+    printf("%d\n", strcmp(p, q));
+    printf("%d\n", my_strcmp(p, q));
+    printf("strncmp = %d\n", strncmp(p, str,3));
+    printf("my_strncmp = %d\n", my_strncmp(p, str, 3));
+	return 0;
 }

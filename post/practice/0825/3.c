@@ -33,10 +33,10 @@ int main(int argc, const char *argv[])
                 }
         }
 
-        printf("id\tname\tscore\n");
+        printf("id\t%-10s\tscore\tgrade\n", "name");
         for(i = 0; i < N; i++)
         {
-                printf("%d\t%s\t%d\n", stu[i].id, stu[i].name, stu[i].score);
+                printf("%d\t%-10s\t%d\t%s\n", stu[i].id, stu[i].name, stu[i].score, stu[i].score >= 60 ? "pass" : "fail");
         }
 
         return 0;
