@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #14 预处理 
+title: 14 预处理 
 ---
-<h1 style="text-align:center">#14 预处理</h1>
 ##目录:
 ###宏
 <ul>

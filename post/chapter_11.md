@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #11 gdb 
+title: 11 gdb 
 ---
-<h1 style="text-align:center">#11 gdb</h1>
 ##目录:
 ###调试器的基本用法
 <ul>

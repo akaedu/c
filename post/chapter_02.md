@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #2 开发环境 
+title: 2 开发环境 
 ---
-<h1 style="text-align:center">#2 开发环境</h1>
 ##目录:
 ###vim
 <ul>

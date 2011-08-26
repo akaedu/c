@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #15 指针高级 
+title: 15 指针高级 
 ---
-<h1 style="text-align:center">#15 指针高级</h1>
 ##目录:
 ###数组指针
 <ul>

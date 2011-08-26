@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #5 编程基础(3)
+title: 5 编程基础(3)
 ---
-<h1 style="text-align:center">#5 编程基础(3)</h1>
 ##目录:
 ###C结构体
 <ul>

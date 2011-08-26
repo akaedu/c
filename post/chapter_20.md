@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #20 查字典项目开题
+title: 20 查字典项目开题
 ---
-<h1 style="text-align:center">#20 查字典项目开题</h1>
 ##目录:
 <ul>
 <li> <a href="/post/20/20.1.html">#20.1 字典条目</a></li>

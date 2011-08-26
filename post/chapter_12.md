@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #12 栈帧 
+title: 12 栈帧 
 ---
-<h1 style="text-align:center">#12 栈帧</h1>
 ##目录:
 <ul>
 <li> <a href="/post/12/12.1.html">#12.1 objdump反汇编</a> </li>

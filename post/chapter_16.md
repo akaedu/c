@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #16 C标准库IO
+title: 16 C标准库IO
 ---
-<h1 style="text-align:center">#16 C标准库IO</h1>
 ##目录:
 <ul>
 <li> <a href="/post/16/16.1.html">#16.1 文件概念</a></li>

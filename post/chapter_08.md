@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #8 字符串
+title: 8 字符串
 ---
-<h1 style="text-align:center">#8 字符串</h1>
 ##目录:
 ###字符串基本概念
 <ul>

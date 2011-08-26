@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #7 指针和数组
+title: 7 指针和数组
 ---
-<h1 style="text-align:center">#7 指针和数组</h1>
 ##目录:
 <ul>
 <li> <a href="/post/07/7.1.html">#7.1 指针的定义</a> </li>

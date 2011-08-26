@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #4 编程基础(2)
+title: 4 编程基础(2)
 ---
-<h1 style="text-align:center">#4 编程基础(2)</h1>
 ##目录:
 ###C基本控制结构
 <ul>

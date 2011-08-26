@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #13 变量的内存布局 
+title: 13 变量的内存布局 
 ---
-<h1 style="text-align:center">#13 变量的内存布局</h1>
 ##目录:
 <ul>
 <li> <a href="/post/13/13.1.html">#13.1 .text</a> </li>

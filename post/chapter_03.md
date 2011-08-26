@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #3 编程基础(1)
+title: 3 编程基础(1)
 ---
-<h1 style="text-align:center">#3 编程基础(1)</h1>
 ##目录:
 ###基本输入输出
 <ul>

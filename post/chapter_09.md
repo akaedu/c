@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #9 链接和库 
+title: 9 链接和库 
 ---
-<h1 style="text-align:center">#9 链接和库</h1>
 ##目录:
 <ul>
 <li> <a href="/post/09/9.1.html">#9.1 编译和链接</a> </li>

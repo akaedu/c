@@ -1,8 +1,7 @@
 ---
 layout: post
-title: #17 链表
+title: 17 链表
 ---
-<h1 style="text-align:center">#17 链表</h1>
 ##目录:
 <ul>
 <li> <a href="/post/17/17.1.html">#17.1 节点定义</a></li>
