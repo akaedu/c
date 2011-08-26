@@ -514,7 +514,7 @@ div.sidebar-module ul ul li span {
 .content dl code,
 .content ul code,
 p code {
-  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 18px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   color: #52595d;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -649,7 +649,7 @@ span.codeline:hover {
 
 span.codeline span {
   display: inline-block;
-  font-size: 10px;
+  font-size: 18px;
   color: #fff;
   padding: 0 0.3em 0.05em;
   position: absolute;
