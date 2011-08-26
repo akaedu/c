@@ -8,14 +8,14 @@ html {
 }
 
 body {
-  font: 80px helvetica,arial,freesans,clean,sans-serif;
+  font: 21px helvetica,arial,freesans,clean,sans-serif;
   line-height: 1.4em;
   background-color: #fff;
   color: #393939;
   margin-left: 200px;
   margin-right: 200px;
   padding: 0px;
-  height: 130%;
+  height: 100%;
 }
 
 p {
@@ -23,7 +23,7 @@ p {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
   border-bottom: 1px solid #cccccc;
   padding: .5em 0;
   margin: 2em 0 1em;
@@ -34,7 +34,7 @@ h1:first-child {
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 26px;
   color: #333;
   margin: 2em auto 1em;
 }
@@ -49,17 +49,17 @@ h2 span.step {
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 24px;
   color: #333;
   margin: 1.5em 0 .5em;
 }
 
 h5 {
-  font-size: 13px;
+  font-size: 23px;
 }
 
 h6 {
-  font-size: 13px;
+  font-size: 23px;
   color: #666;
 }
 
