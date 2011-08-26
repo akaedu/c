@@ -2,7 +2,7 @@
 layout: post
 title:
 ---
-<img src="./images/akaedu.png" alt="akaedu" align="center" left=400/>
+<img src="./images/akaedu.png" alt="akaedu" align="center"/>
 <br>
 
 <a href="/post/practice.html">练习题</a> 
