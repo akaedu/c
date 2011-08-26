@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #1 Linux基本操作
+title: 1 Linux基本操作
 ---
 ##目录:
 ###帮助相关
