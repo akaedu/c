@@ -2,7 +2,6 @@
 layout: post
 title: #1 Linux基本操作
 ---
-<h1 style="text-align:center">#1 Linux基本操作</h1>
 ##目录:
 ###帮助相关
 <ul>
