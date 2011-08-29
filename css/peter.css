@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  font: 18px helvetica,arial,freesans,clean,sans-serif;
+  font: 12px helvetica,arial,freesans,clean,sans-serif;
   line-height: 1.4em;
   background-color: #fff;
   color: #393939;
@@ -23,7 +23,7 @@ p {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   border-bottom: 1px solid #cccccc;
   padding: .5em 0;
   margin: 2em 0 1em;
@@ -34,7 +34,7 @@ h1:first-child {
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 20px;
   color: #333;
   margin: 2em auto 1em;
 }
@@ -49,17 +49,17 @@ h2 span.step {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 18px;
   color: #333;
   margin: 1.5em 0 .5em;
 }
 
 h5 {
-  font-size: 23px;
+  font-size: 17px;
 }
 
 h6 {
-  font-size: 23px;
+  font-size: 17px;
   color: #666;
 }
 
