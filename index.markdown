@@ -5,7 +5,11 @@ title: 亚嵌教育
 
 <a href="/post/practice.html">练习题</a> 
 <br>
-<p><br /><b>目录:</b></p>
+##理论学习
+<ul>
+<a href="/book/html-chunk/">Linux C编程一站式学习</a>
+</ul>
+##编码练习
 <ul>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
