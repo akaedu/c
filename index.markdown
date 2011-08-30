@@ -7,7 +7,8 @@ title: 亚嵌教育
 <br>
 ##理论学习
 <ul>
-<a href="/book/html-chunk/" target="_blank">Linux C编程一站式学习</a>
+<a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp
+<a href="/book/html-chunk/" target="_blank">本站镜象</a>
 </ul>
 ##编码练习
 <ul>
