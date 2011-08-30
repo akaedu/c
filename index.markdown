@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: homepage
 title: 亚嵌教育
 ---
 
