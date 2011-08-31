@@ -5,7 +5,7 @@ int find_x(int num, int x)
         int count = 0;
 
         do{
-                if((num % 10 - x) == 0)
+                if(num % 10 == x)
                         count++;
         }while(num /= 10);
 
