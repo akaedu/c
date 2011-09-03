@@ -3,7 +3,7 @@ layout: homepage
 title: 亚嵌教育
 ---
 
-<a href="/post/practice.html">练习题</a> 
+<a href="notice.html">练习题</a> 
 <br>
 ##理论学习
 <ul>
