@@ -19,7 +19,3 @@ title: 2 开发环境
 <ul>
 <li> <a href="/post/02/2.7.html">#2.7 gdb 的基本使用</a> </li>
 </ul>
-###makefile
-<ul>
-<li> <a href="/post/02/2.8.html">#2.8 makefile 基本语法</a> </li>
-</ul>
