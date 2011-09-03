@@ -1,6 +1,6 @@
 
-ymqqqqdx.github.com
+akaedu.github.com
 ==============
 
 This repository contains the source for my personal site at
-<http://ymqqqqdx.github.com>.
+<http://akaedu.github.com>.

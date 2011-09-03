@@ -48,3 +48,7 @@ title: 1 Linux基本操作
 <li> <a href="/post/01/1.26.html">#1.26 ping</a> </li>
 <li> <a href="/post/01/1.27.html">#1.27 netstat</a> </li>
 </ul>
+##其它
+<ul>
+<li> <a href="/post/01/1.28.html">#1.28 环境变量</a> </li>
+</ul>
