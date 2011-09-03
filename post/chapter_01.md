@@ -16,7 +16,7 @@ title: 1 Linux基本操作
 <li> <a href="/post/01/1.6.html">#1.6 mkdir</a> </li>
 <li> <a href="/post/01/1.7.html">#1.7 cd</a> </li>
 <li> <a href="/post/01/1.8.html">#1.8 pwd</a> </li>
-<li> <a href="/post/01/1.9.html">#1.9 rm -r</a> </li>
+<li> <a href="/post/01/1.9.html">#1.9 rmdir</a> </li>
 </ul>
 ###文件操作
 <ul>
