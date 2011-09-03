@@ -44,10 +44,14 @@ title: 亚嵌教育
 
 <blockquote>
 <p>
-高金龙：<em>gaojinlong@akaedu.org</em><br>
-郭鹏宇：<em>guopengyu@akaedu.org</em><br>
-刘  光：<em>liuguang@akaedu.org</em><br>
-张建宁：<em>zhangjianning@akaedu.org</em><br>
+高金龙：<a
+href="mailto:gaojinlong@akaedu.org?subject=feedback">gaojinlong@akaedu.org</a>
+郭鹏宇：<a
+href="mailto:guopengyu@akaedu.org?subject=feedback">guopengyu@akaedu.org</a>
+刘  光：<a
+href="mailto:liuguang@akaedu.org?subject=feedback">liuguang@akaedu.org</a>
+张建宁：<a
+href="mailto:zhangjianning@akaedu.org?subject=feedback">zhangjianning@akaedu.org</a>
 </p>
 </blockquote>
 
