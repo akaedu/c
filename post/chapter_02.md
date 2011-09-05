@@ -19,3 +19,7 @@ title: 2 开发环境
 <ul>
 <li> <a href="/post/02/2.7.html">#2.7 gdb 的基本使用</a> </li>
 </ul>
+###练习题
+<ul>
+<li> <a href="/post/02/practice.html">#2练习题</a> </li>
+</ul>
