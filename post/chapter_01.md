@@ -52,3 +52,7 @@ title: 1 Linux基本操作
 <ul>
 <li> <a href="/post/01/1.28.html">#1.28 环境变量</a> </li>
 </ul>
+##练习题
+<ul>
+<li> <a href="/post/01/practice.html">#1练习题</a> </li>
+</ul>
