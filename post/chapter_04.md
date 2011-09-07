@@ -20,3 +20,7 @@ title: 4 编程基础(2)
 <li> <a href="/post/04/4.10.html">#4.10 初始化</a> </li>
 <li> <a href="/post/04/4.11.html">#4.11 遍历</a> </li>
 </ul>
+###练习题
+<ul>
+<li> <a href="/post/04/practice04.html">#练习</a> </li>
+</ul>
