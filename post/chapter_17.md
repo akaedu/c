@@ -10,4 +10,5 @@ title: 17 链表
 <li> <a href="/post/17/17.4.html">#17.4 节点删除</a> </li>
 <li> <a href="/post/17/17.5.html">#17.5 节点遍历</a> </li>
 <li> <a href="/post/17/17.6.html">#17.6 链表销毁</a> </li>
+<li> <a href="/post/17/17.7.html">#17.7 使用链表实现约瑟夫环</a> </li>
 </ul>
