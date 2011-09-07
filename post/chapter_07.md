@@ -11,6 +11,6 @@ title: 7 指针和数组
 </ul>
 ##练习题
 <ul>
-<li> <a href="/post/07/7.1.html">#练习题</a> </li>
+<li> <a href="/post/07/practice07.html">#练习题</a> </li>
 </ul>
 
