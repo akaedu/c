@@ -18,3 +18,7 @@ title: 3 编程基础(1)
 <li> <a href="/post/03/3.8.html">#3.8 数制转换</a> </li>
 <li> <a href="/post/03/3.9.html">#3.9 数据编码</a> </li>
 </ul>
+###练习题
+<ul>
+<li> <a href="/post/03/practice.html">#3练习题</a> </li>
+</ul>

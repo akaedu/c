@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 练习题
+title: Linux基本命令练习题
 ---
 ###1.
 试用帮助系统，查看printf函数的使用方法。

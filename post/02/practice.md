@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 练习题
+title: 开发环境练习题
 ---
 ###1.
 在命令行下输入vimtutor，打开vim的教程，认真练习两遍。
