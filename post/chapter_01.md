@@ -21,7 +21,7 @@ title: 1 Linux基本操作
 ###文件操作
 <ul>
 <li> <a href="/post/01/1.10.html">#1.10 touch</a> </li>
-<li> <a href="/post/01/1.11.html">#1.11 cat</a> </li>
+<li> <a href="/post/01/1.11.html">#1.11 cat/more/less</a> </li>
 <li> <a href="/post/01/1.12.html">#1.12 rm</a> </li>
 <li> <a href="/post/01/1.13.html">#1.13 cp</a> </li>
 <li> <a href="/post/01/1.14.html">#1.14 mv</a> </li>
