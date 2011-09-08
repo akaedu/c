@@ -14,14 +14,14 @@ title: 1 Linux基本操作
 <ul>
 <li> <a href="/post/01/1.5.html">#1.5 ls</a> </li>
 <li> <a href="/post/01/1.6.html">#1.6 mkdir</a> </li>
-<li> <a href="/post/01/1.7.html">#1.7 cd</a> </li>
-<li> <a href="/post/01/1.8.html">#1.8 pwd</a> </li>
+<li> <a href="/post/01/1.8.html">#1.7 pwd</a> </li>
+<li> <a href="/post/01/1.7.html">#1.8 cd</a> </li>
 <li> <a href="/post/01/1.9.html">#1.9 rmdir</a> </li>
 </ul>
 ###文件操作
 <ul>
 <li> <a href="/post/01/1.10.html">#1.10 touch</a> </li>
-<li> <a href="/post/01/1.11.html">#1.11 cat</a> </li>
+<li> <a href="/post/01/1.11.html">#1.11 cat/more/less</a> </li>
 <li> <a href="/post/01/1.12.html">#1.12 rm</a> </li>
 <li> <a href="/post/01/1.13.html">#1.13 cp</a> </li>
 <li> <a href="/post/01/1.14.html">#1.14 mv</a> </li>
@@ -51,6 +51,7 @@ title: 1 Linux基本操作
 ##其它
 <ul>
 <li> <a href="/post/01/1.28.html">#1.28 环境变量</a> </li>
+<li> <a href="/post/01/1.29.html">#1.29 ssh/scp</a> </li>
 </ul>
 ##练习题
 <ul>
