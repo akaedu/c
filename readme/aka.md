@@ -3,7 +3,7 @@ layout: post
 title: 大雁精神
 ---
 
-<img src="./aka.jpg" margin-right=200px>
+<img src="./aka.jpg" style="margin-right:200px">
 
 ###第一章  V 型雁阵——团队精神的真谛 
 
