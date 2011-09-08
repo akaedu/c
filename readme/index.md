@@ -2,9 +2,10 @@
 layout: post
 title: 进站必读
 ---
-##一、我们的初衷
+##一、我们的文化
 <ul>
 <li> <a href="./1.html">关于自由和开源</a></li>
+<li> <a href="./aka.html">大雁精神</a></li>
 </ul>
 ##二、学习方法
 <ul>
