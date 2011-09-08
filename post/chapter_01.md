@@ -51,6 +51,7 @@ title: 1 Linux基本操作
 ##其它
 <ul>
 <li> <a href="/post/01/1.28.html">#1.28 环境变量</a> </li>
+<li> <a href="/post/01/1.29.html">#1.29 ssh/scp</a> </li>
 </ul>
 ##练习题
 <ul>
