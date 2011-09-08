@@ -22,3 +22,8 @@ title: 11 gdb
 <li> <a href="/post/11/11.9.html">#11.9 堆栈定义</a> </li>
 <li> <a href="/post/11/11.10.html">#11.10 堆栈的用法</a> </li>
 </ul>
+###练习题
+<ul>
+<li> <a href="/post/11/practice11.html">#练习</a> </li>
+</ul>
+
