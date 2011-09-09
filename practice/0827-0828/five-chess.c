@@ -1,3 +1,10 @@
+/** 
+* @file five-chess.c
+* @brief five-chess
+* @author liming
+* @version 0.1
+* @date 2011-09-09
+*/
 #include <stdio.h>
 #define COL 8
 #define ROW 8

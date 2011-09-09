@@ -1,3 +1,10 @@
+/** 
+* @file 3.c
+* @brief 定义一个整形数组，用100以内的随机数填充，然后对其进行冒泡排序
+* @author GuoPengyu
+* @version 0.1
+* @date 2011-09-09
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

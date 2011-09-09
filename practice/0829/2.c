@@ -1,3 +1,11 @@
+/** 
+* @file 2.c
+* @brief 从键盘接收一个字符串，然后按照字符顺序从小到大进行排序并删除重复字符；
+* 如从键盘输入的内容为”agehiagehp”,执行完程序之后变成:”aeghip”
+* @author GuoPengyu
+* @version 0.1
+* @date 2011-09-09
+*/
 #include <stdio.h>
 #include <string.h>
 

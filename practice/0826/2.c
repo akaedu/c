@@ -1,3 +1,11 @@
+/** 
+* @file 2.c
+* @brief 设有一个数列，包含10个整数，要求此数列已经按照升序排好。现在编写程序，
+* 要求程序实现能把从指定位置开始的n个数按逆序重新排列并输出新的完整数列
+* @author GuoPengyu
+* @version 0.1
+* @date 2011-09-09
+*/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -74,5 +82,6 @@ int main(int argc, const char *argv[])
         
         reverse(arr, 1, 4);
         show(arr, N);
+
         return 0;
 }
