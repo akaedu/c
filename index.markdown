@@ -35,7 +35,7 @@ title: 亚嵌教育
 </ul>
 ##视频学习
 <ul>
-<li><a href="http://akaedu.gensee.com/webcast/site/ondemand">视频点播</a> </li>
+<li><a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> </li>
 </ul>
 <p><br /><b>Contact maintainer:</b></p>
 
