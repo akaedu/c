@@ -33,12 +33,9 @@ title: 亚嵌教育
 <li> <a href="/post/chapter_19.html">#19 二叉数</a> </li>
 <li> <a href="/post/chapter_20.html">#20 查字典项目开题</a> </li>
 </ul>
-<p><br /><b>Find me on:</b></p>
-
+##视频学习
 <ul>
-
-<li><a href="http://github.com/akaedu/">Github</a></li>
-
+<li><a href="http://akaedu.gensee.com/webcast/site/ondemand">视频点播</a> </li>
 </ul>
 <p><br /><b>Contact maintainer:</b></p>
 
