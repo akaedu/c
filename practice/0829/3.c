@@ -1,3 +1,10 @@
+/** 
+* @file 3.c
+* @brief 删除字符串中的子字符串
+* @author Gaojinlong
+* @version 0.1
+* @date 2011-09-09
+*/
 #include <stdio.h>
 #include <string.h>
 
@@ -6,6 +13,7 @@
 void del(char *str, char *substr)
 {
         char *p;
+
         int len_sub = strlen(substr);
         while(p = strstr(str, substr))
         {
@@ -22,5 +30,6 @@ int main(int argc, char *argv[])
 	printf("str = %s\n", str);
 	del(str, sub);
 	printf("After...\nstr = %s\n", str);
+
 	return 0;
 }
