@@ -18,7 +18,7 @@ title: 练习题
 2、自己实现my\_strcat();<br>
 
 ####4.
-写一个函数，输入3，输出：
+写一个函数，输入3，输出：<br>
 x x x x x<br>
 x y y y x<br>
 x y z y x<br>
