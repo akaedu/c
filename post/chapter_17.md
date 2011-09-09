@@ -12,3 +12,7 @@ title: 17 链表
 <li> <a href="/post/17/17.6.html">#17.6 链表销毁</a> </li>
 <li> <a href="/post/17/17.7.html">#17.7 使用链表实现约瑟夫环</a> </li>
 </ul>
+###练习题
+<ul>
+<li> <a href="/post/17/practice17.html">#练习题</a> </li>
+</ul>
