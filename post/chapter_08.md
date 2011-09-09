@@ -18,6 +18,7 @@ title: 8 字符串
 <li> <a href="/post/08/8.8.html">#8.8 strchr/strstr</a> </li>
 <li> <a href="/post/08/8.9.html">#8.9 strtok/strtok_r</a> </li>
 </ul>
+###练习题
 <ul>
 <li> <a href="/post/08/practice08.html">#练习题</a></li>
 </ul>
