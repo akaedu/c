@@ -21,3 +21,8 @@ title: 15 指针高级
 <li> <a href="/post/15/15.8.html">#15.8 函数指针的初始化</a> </li>
 <li> <a href="/post/15/15.9.html">#15.9 函数指针的使用</a> </li>
 </ul>
+###练习
+<ul>
+<li> <a href="/post/15/15.10.html">#函数指针的练习</a></li>
+</ul>
+
