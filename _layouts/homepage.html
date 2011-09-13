@@ -9,7 +9,7 @@
 <h1 style="text-align:center">{{ page.title }}</h1>
 <br>
 {{ content }}
-<img src="http://v.t.qq.com/share/images/s/weiboicon16.png" align="absmiddle" border="0" alt="转播到腾讯微博" /> <a href="javascript:void(0)" onclick="postToWb();return false;" style="height:16px;font-size:12px;line-height:16px;">转播到腾讯微博</a><script type="text/javascript">
+<a href="javascript:void(0)" onclick="postToWb();return false;" class="tmblog"><img src="http://v.t.qq.com/share/images/s/b16.png" border="0" alt="转播到腾讯微博" ></a><script type="text/javascript">
 	function postToWb(){
 		var _t = encodeURI(document.title);
 		var _url = encodeURIComponent(document.location);
@@ -21,6 +21,7 @@
 		window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
 	}
 </script>
+
 <script type="text/javascript" charset="utf-8">
 (function(){
   var _w = 86 , _h = 16;
