@@ -30,7 +30,7 @@ title: 亚嵌教育
 <li> <a href="/post/chapter_16.html">#16 C标准库IO</a> </li>
 <li> <a href="/post/chapter_17.html">#17 链表</a> </li>
 <li> <a href="/post/chapter_18.html">#18 排序和查找</a> </li>
-<li> <a href="/post/chapter_19.html">#19 二叉数</a> </li>
+<li> <a href="/post/chapter_19.html">#19 二叉树</a> </li>
 <li> <a href="/post/chapter_20.html">#20 查字典项目开题</a> </li>
 </ul>
 ##视频学习
