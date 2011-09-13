@@ -9,18 +9,6 @@
 <h1 style="text-align:center">{{ page.title }}</h1>
 <br>
 {{ content }}
-<a href="javascript:void(0)" onclick="postToWb();return false;" class="tmblog"><img src="http://v.t.qq.com/share/images/s/b16.png" border="0" alt="转播到腾讯微博" ></a><script type="text/javascript">
-	function postToWb(){
-		var _t = encodeURI(document.title);
-		var _url = encodeURIComponent(document.location);
-		#NAME#
-		var _appkey = encodeURI("appkey");//你从腾讯获得的appkey
-		var _pic = encodeURI('');//（例如：var _pic='图片url1|图片url2|图片url3....）
-		var _site = 'akaedu.github.com';//你的网站地址
-		var _u = 'http://v.t.qq.com/share/share.php?url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic+'&title='+_t+'&assname='+_assname;
-		window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
-	}
-</script>
 
 <script type="text/javascript" charset="utf-8">
 (function(){
