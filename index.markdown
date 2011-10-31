@@ -3,7 +3,7 @@ layout: homepage
 title: 亚嵌教育
 ---
 
-<a href="notice.html">练习题</a> <br> 
+<a href="notice.html">练习题</a> &nbsp 
 <a href="/code/primary_coding.html">编程基础</a> 
 <br>
 ##理论学习
