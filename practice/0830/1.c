@@ -11,9 +11,7 @@
 
 int find_second(int *a, int size)
 {
-        int max, second, i;
-        max = 0;
-        second = 0;
+        int max = 0, second = 0, i;
 
         for(i = 0; i < size; i++)
         {
