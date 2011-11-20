@@ -3,6 +3,8 @@ layout: post
 title: 20111120答案
 ---
 
+<li> <a href="./test.doc">题目下载</a> </li>
+
 ###一、选择题
 1.C  <br>
 2.D <br>
