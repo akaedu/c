@@ -270,7 +270,6 @@ fd即由open函数返回的文件描述符，buf为存放读取/写入内容的�
 	
 		buf = "hello world!";
 		fd = open("./open.txt", O_RDWD | O_CREAT, 0644);
-		close(fd);
 		wirte(fd, buf, strlen(buf));
 		close(fd);
 	
