@@ -135,3 +135,24 @@ title: chess code
 		return 0;
 	}
 	
+	
+	static u32_t cursor_pixel[C_H][C_W]=
+	{
+		{BORD,T___,T___,T___,T___,T___,T___,T___,T___,T___},
+		{BORD,BORD,T___,T___,T___,T___,T___,T___,T___,T___},
+		{BORD,X___,BORD,T___,T___,T___,T___,T___,T___,T___},
+		{BORD,X___,X___,BORD,T___,T___,T___,T___,T___,T___},
+		{BORD,X___,X___,X___,BORD,T___,T___,T___,T___,T___},	
+		{BORD,X___,X___,X___,X___,BORD,T___,T___,T___,T___},
+		{BORD,X___,X___,X___,X___,X___,BORD,T___,T___,T___},
+		{BORD,X___,X___,X___,X___,X___,X___,BORD,T___,T___},
+		{BORD,X___,X___,X___,X___,X___,X___,X___,BORD,T___},
+		{BORD,X___,X___,X___,X___,X___,X___,X___,X___,BORD},
+		{BORD,X___,X___,X___,X___,X___,BORD,BORD,BORD,BORD},
+		{BORD,X___,X___,BORD,X___,X___,BORD,T___,T___,T___},
+		{BORD,X___,BORD,T___,BORD,X___,X___,BORD,T___,T___},
+		{BORD,BORD,T___,T___,BORD,X___,X___,BORD,T___,T___},
+		{T___,T___,T___,T___,T___,BORD,X___,X___,BORD,T___},
+		{T___,T___,T___,T___,T___,BORD,X___,X___,BORD,T___},
+		{T___,T___,T___,T___,T___,T___,BORD,BORD,T___,T___}
+	};
