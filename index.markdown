@@ -11,8 +11,18 @@ title: 亚嵌教育
 <br>
 ##理论学习
 <ul>
+<li> 
+  <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp
+  <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">中文版</a>
+   <a href="http://happycasts.net" target="_blank"> 作者： Peter 王广忠 </a>
+</li>
+</ul>
+<ul>
+<li> 
 <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp
 <a href="/book/html-chunk/" target="_blank">本站镜像</a>
+<a href="mailto:songjingshan@akaedu.org" target="_blank"> 作者： 宋劲杉 </a>
+</li>
 </ul>
 ##编码练习
 <ul>
