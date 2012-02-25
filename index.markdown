@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 亚嵌教育
+category: tech 
 ---
 <li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
 <li> <a href="notice.html">编程练习题目</a> </li> <br>
