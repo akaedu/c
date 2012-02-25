@@ -7,6 +7,8 @@ title: 亚嵌教育
 <br> 
 <a href="/code/primary_coding.html">编程基础</a> 
 <br>
+<a href="/code/c_notes.html">课堂笔记</a> 
+<br>
 ##理论学习
 <ul>
 <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp
