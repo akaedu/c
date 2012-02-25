@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 亚嵌教育
 ---
 
