@@ -2,6 +2,22 @@
 layout: post
 title: 亚嵌教育
 ---
+<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
+<li> <a href="notice.html">编程练习题目</a> </li> <br>
+<li> <a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> </li> <br>
+##理论学习
+<ul>
+<li> 
+  <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> 
+  <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a>
+</li>
+</ul>
+<ul>
+<li> 
+<a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> 
+<a href="/book/html-chunk/" target="_blank">[本站镜像]</a>
+</li>
+</ul>
 
 ##编码练习
 <ul>
