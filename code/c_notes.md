@@ -2,6 +2,7 @@
 layout: post
 title: C Notes
 ---
+
 2012-2-20 亚嵌教育 46期C语言复习串讲
 
 day1: section 1
