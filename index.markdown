@@ -7,7 +7,7 @@ title: 亚嵌教育
 <br> 
 <a href="/code/primary_coding.html">编程基础</a> 
 <br>
-<a href="/code/c_notes.html">课堂笔记</a> 
+<a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲</a> 
 <br>
 ##理论学习
 <ul>
