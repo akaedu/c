@@ -2,9 +2,9 @@
 title: 亚嵌教育
 ---
 
-<li><a href="/code/primary_coding.html">范例代码基础</a> </li>
-<li><a href="notice.html">编程练习题目</a> </li>
-<li><a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> </li>
+<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
+<li> <a href="notice.html">编程练习题目</a> </li> <br>
+<li> <a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> </li> <br>
 ##理论学习
 <ul>
 <li> 
