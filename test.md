@@ -1,4 +1,6 @@
-this is a test page
+
+2012-2-27
+
 ====================
 #test html
 ##test1
