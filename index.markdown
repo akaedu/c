@@ -51,7 +51,7 @@ category: tech
 
 <blockquote>
 <p>
-亚嵌老师邮箱：<a
+这个网站目前由亚嵌教育维护，如果你志愿参与这个网站的建设，请发邮件到亚嵌老师邮箱：<a
 href="mailto:teacher@akaedu.org?subject=feedback">teacher@akaedu.org</a><br>
 </p>
 </blockquote>
